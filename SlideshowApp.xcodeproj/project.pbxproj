@@ -16,6 +16,7 @@
 		0C6747872702EAE500DCA126 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0C6747852702EAE500DCA126 /* LaunchScreen.storyboard */; };
 		0C6747922702EAE600DCA126 /* SlideshowAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C6747912702EAE600DCA126 /* SlideshowAppTests.swift */; };
 		0C67479D2702EAE700DCA126 /* SlideshowAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C67479C2702EAE700DCA126 /* SlideshowAppUITests.swift */; };
+		0C67486C27041C2200DCA126 /* ResultController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C67486B27041C2200DCA126 /* ResultController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0C6747982702EAE700DCA126 /* SlideshowAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlideshowAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C67479C2702EAE700DCA126 /* SlideshowAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideshowAppUITests.swift; sourceTree = "<group>"; };
 		0C67479E2702EAE700DCA126 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0C67486B27041C2200DCA126 /* ResultController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0C6747772702EADD00DCA126 /* AppDelegate.swift */,
 				0C6747792702EADD00DCA126 /* SceneDelegate.swift */,
 				0C67477B2702EADD00DCA126 /* ViewController.swift */,
+				0C67486B27041C2200DCA126 /* ResultController.swift */,
 				0C67477D2702EADD00DCA126 /* Main.storyboard */,
 				0C6747832702EAE500DCA126 /* Assets.xcassets */,
 				0C6747852702EAE500DCA126 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			files = (
 				0C6747822702EADD00DCA126 /* SlideshowApp.xcdatamodeld in Sources */,
 				0C67477C2702EADD00DCA126 /* ViewController.swift in Sources */,
+				0C67486C27041C2200DCA126 /* ResultController.swift in Sources */,
 				0C6747782702EADD00DCA126 /* AppDelegate.swift in Sources */,
 				0C67477A2702EADD00DCA126 /* SceneDelegate.swift in Sources */,
 			);
